@@ -1,0 +1,46 @@
+criar ambiente virtual (python3 -m venv ./env)
+
+ativar ambiente virtual (source ./env/bin/activate)
+
+instalação do Flask (pip install flask)
+
+verificar a versão do Flask instalada (python -m flask --version)
+
+guardar as dependências (pip freeze > requeriments.txt)
+
+-------------------------------------------------------------------------------------
+
+ativar o ambiente virtual (source ./env/bin/activate)
+
+criou arquivo do servidor (app.py)
+
+criou uma rota '/' index
+
+digitar o comando (set FLASK_APP = app.py)
+
+digitar o comando flask run (iniciar a aplicação web)
+
+-------------------------------------------------------------------------------------
+
+Criar um documento HTML (usar como template)
+
+renderizar o template
+
+templates ou rotas dinâmicas
+
+-------------------------------------------------------------------------------------
+
+Instalar uma dependência (pip install flask-wtf)
+
+atualizar o requirements.txt
+
+importou as dependências
+
+criou uma classe de formulário 
+
+renderizou o formulário 
+
+devolveu dados recebidos pelo formulário no template 
+
+refactor do formulário
+
